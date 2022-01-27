@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIcons</key>
+	<dict/>
+	<key>CFBundleIcons~ipad</key>
+	<dict/>
+	<key>CFBundleIdentifier</key>
+	<string>com.Gate-Web.$(PRODUCT_NAME:rfc1034identifier)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>3</string>
+	<key>DB_MASTA_KAISAICHI</key>
+	<array>
+		<string>空き番</string>
+		<string>桐生</string>
+		<string>戸田</string>
+		<string>江戸川</string>
+		<string>平和島</string>
+		<string>多摩川</string>
+		<string>浜名湖</string>
+		<string>蒲郡</string>
+		<string>常滑</string>
+		<string>津</string>
+		<string>三国</string>
+		<string>びわこ</string>
+		<string>住之江</string>
+		<string>尼崎</string>
+		<string>鳴門</string>
+		<string>丸亀</string>
+		<string>児島</string>
+		<string>宮島</string>
+		<string>徳山</string>
+		<string>下関</string>
+		<string>若松</string>
+		<string>芦屋</string>
+		<string>福岡</string>
+		<string>唐津</string>
+		<string>大村</string>
+	</array>
+	<key>HTTP_USER_AGENT_ARRAY</key>
+	<array>
+		<string>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B508 Safari/9537.53</string>
+		<string>Mozilla/1.0 (Macintosh; Intel Mac OS X 1_0_0) AppleWebKit/100.0.1 (KHTML, like Gecko) Version/1.0.1 Safari/100.0.1</string>
+		<string>DoCoMo/2.0 F901iC(c100;TB;W23H12)</string>
+	</array>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UIFileSharingEnabled</key>
+	<true/>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleLightContent</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>
